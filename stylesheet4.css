@@ -1,0 +1,33 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.navbar{
+    height:100px;
+    background-color: skyblue;
+    line-height: 10px;
+    position: static;
+}
+span{
+    color: red;
+    font-size: 30px;
+    margin-left: 10px;
+    font-family: initial;
+}
+li{
+    color: brown;
+    display: inline;
+    list-style-type:none;
+    padding:10px;
+}
+ul{
+    float: right;
+    padding-top: 5px;
+}
+button{
+    padding:20px;
+}
+a:hover{
+    color:blue;
+    font-size: 30px;
+}
